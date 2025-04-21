@@ -38,7 +38,7 @@ These technologies were chosen to demonstrate full-stack Java web development us
 | Layer       | Tech/Tool                        |
 |-------------|----------------------------------|
 | Language    | Java, HTML, CSS                  |
-| Backend     | Spring Boot,                     |
+| Backend     | Spring Boot                     |
 | Frontend    | HTML5/CSS3, JSP, Thymeleaf       |
 | API Service | [OpenWeatherMap](https://openweathermap.org/api) |
 | HTTP Client | Apache HttpClient (Java library) |
